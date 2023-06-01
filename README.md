@@ -12,4 +12,7 @@ Button ların styl özelliklerini burad verdim
  Sayfa arka plan rengini değiştirme( <body> elementinin backgroundColor stil özelliğini bu rastgele renk ile değiştiriyoruz.)
 # 5.
  Mouseover button nun üzerine gelindiğinde sayfanın rengini değiştiren fonksiyon ekliyoruz.
-#6 Rastgele renk üreten yardımcı fonksiyon oluşturuyoruz.
+# 6.
+ Rastgele renk üreten yardımcı fonksiyon oluşturuyoruz.
+ # Github pages:
+ link:https://ilknurtuncer.github.io/Color_Button/
