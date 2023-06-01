@@ -2,7 +2,7 @@
 # HTML: 
 Button ların styl özelliklerini burad verdim
 # Javascript:
-## 1.
+# 1.
  DOM elemanını seçme( querySelector yöntemi ile <body> elementini seçiyoruz)
 # 2.
  event listener ekleme(  addEventListener ile bir tıklama olayı dinleyici ekliyoruz.)
