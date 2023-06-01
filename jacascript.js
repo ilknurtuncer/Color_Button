@@ -2,7 +2,7 @@
 const colorButton = document.getElementById('colorButton');
 const body = document.querySelector('body');
 
-// event listener ekleme(  addEventListener ile bir tıklama olayı dinleyici ekliyoruz.)
+// event listener ekleme(  addEventListener ile bir tıklama olayını ekliyoruz.)
 colorButton1.addEventListener('click', function() {
   // Rastgele renk oluşturma(getRandomColor fonksiyonunu kullanarak rastgele bir renk oluşturuyoruz )
   const randomColor = getRandomColor();
@@ -11,6 +11,7 @@ colorButton1.addEventListener('click', function() {
   body.style.backgroundColor = randomColor;
   
 });
+// button nun üzerine gelindiğinde sayfanın rengini değiştiren fonksiyon ekliyoruz
 colorButton2.addEventListener('mouseover', function() {
   const randomColor = getRandomColor();
 
